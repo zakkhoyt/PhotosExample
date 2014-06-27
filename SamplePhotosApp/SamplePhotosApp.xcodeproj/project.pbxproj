@@ -15,6 +15,7 @@
 		A7CF22F41933F39000E6E88E /* AAPLAssetGridViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CF22F31933F39000E6E88E /* AAPLAssetGridViewController.m */; };
 		A7CF22FA1933F51500E6E88E /* AAPLGridViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CF22F91933F51500E6E88E /* AAPLGridViewCell.m */; };
 		A7CF22FD1933FD2600E6E88E /* AAPLAssetViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CF22FC1933FD2600E6E88E /* AAPLAssetViewController.m */; };
+		CFE50D37195D088300DDBFBB /* Readme in Resources */ = {isa = PBXBuildFile; fileRef = CFE50D36195D088300DDBFBB /* Readme */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A7CF22F91933F51500E6E88E /* AAPLGridViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPLGridViewCell.m; sourceTree = "<group>"; };
 		A7CF22FB1933FD2600E6E88E /* AAPLAssetViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPLAssetViewController.h; sourceTree = "<group>"; };
 		A7CF22FC1933FD2600E6E88E /* AAPLAssetViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = AAPLAssetViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		CFE50D36195D088300DDBFBB /* Readme */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Readme; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				11A9AC69193531AE00C5AC7F /* Storyboard.storyboard */,
 				A7CF22D61933ED8900E6E88E /* Images.xcassets */,
 				A7CF22CF1933ED8900E6E88E /* Supporting Files */,
+				CFE50D36195D088300DDBFBB /* Readme */,
 			);
 			path = SamplePhotosApp;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7CF22D71933ED8900E6E88E /* Images.xcassets in Resources */,
+				CFE50D37195D088300DDBFBB /* Readme in Resources */,
 				11A9AC6A193531AE00C5AC7F /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
